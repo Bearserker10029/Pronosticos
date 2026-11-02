@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_pronosticos"
+        android:icon="@drawable/ic_pronosticos"
+        android:title="Mis Pronosticos" />
+    <item
+        android:id="@+id/nav_estadisticas"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Estadisticas" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="Cerrar sesion" />
+</menu>

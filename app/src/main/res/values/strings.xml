@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pronosticos</string>
+    <string name="fui_sign_in_default">Iniciar sesion</string>
+    <string name="fui_next_default">Siguiente</string>
+    <string name="fui_done">Listo</string>
+    <string name="fui_sign_in_with_email">Iniciar sesion con correo</string>
+    <string name="fui_sign_in_with_google">Iniciar sesion con Google</string>
+    <string name="fui_sign_in_with_github">Iniciar sesion con GitHub</string>
+    <string name="fui_welcome_back_email_header">Bienvenido de nuevo</string>
+    <string name="fui_create_account_preamble">Al tocar %1$s, indicas que aceptas las Condiciones del Servicio y la Politica de Privacidad de la aplicacion.</string>
+    <string name="fui_button_label_save">Guardar</string>
+    <string name="fui_continue">Continuar</string>
+    <string name="fui_cancel">Cancelar</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+</resources>
